@@ -1,0 +1,138 @@
+
+    
+
+#first{
+    background-image: url(./image/ac269169107f52b8bd3504aee588663b.jpg);
+
+}
+.text-profile{
+    color: aliceblue;
+    font-family: "Indie Flower", cursive;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 200px;
+  font-size: 120px;
+
+  text-align: center;
+  
+}
+.subtext-profile{
+    color:aliceblue;
+    font-family: "Indie Flower", cursive;
+    font-weight: 700;
+    font-style: normal;
+margin-bottom: 234px;
+font-size: 45px;
+text-align: center;
+padding-top: 50px;
+
+
+}
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+    border:solid black 7px
+  }
+  .hello{
+    padding-top: 50px;
+    color:black;
+    font-family: "Indie Flower", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 85px;
+  }
+  .profile{
+    text-align: center;
+    background-color: aliceblue;
+    
+  }
+  #second{
+    background-color:whitesmoke;
+  }
+  .intro{
+    color:rgb(118, 118, 118);
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    padding-top: 20px;
+  }
+  hr{
+  border: dotted #000000 6px;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+  }
+  .skills{
+    padding-top: 30px;
+    color:black;
+    font-family: "Indie Flower", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 70px;
+    padding-bottom: 200px;
+  }
+ 
+.skillspicture{
+    border: solid black 10px;
+    border-radius: 10%;
+}
+.skillsfont{
+    font-family: "Indie Flower", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    padding-top: 15px;
+    color: rgb(14, 168, 14);
+    
+}
+.smskillsfont{
+    color: black;
+     font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size:25px;
+  font-weight: 600;
+  font-style: normal;
+    
+    padding-top: 75px;
+    padding-right: 20px;
+}
+.ms-3{
+    margin-right: 30pxßßß;
+}
+.container,.container-space{
+  background-color: aliceblue;
+}
+
+.bg-body-tertiary{
+  background-image: url(./image/ac269169107f52b8bd3504aee588663b.jpg);
+  
+}
+.button{
+  font-size: 30px;
+  padding: 5px;
+}
+footer{
+  background-color: aliceblue;
+  
+}
+.responsive-image{
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+.responsive-heading{
+  font-size: 120px;
+  text-align: center;
+}
+@media (max-width:600px){
+  .responsive-heading{
+    font-size: 90px;
+  }
+}
+@media (max-width:400px){
+  .responsive-heading{
+    font-size: 70px;
+  }
+}
+
+
